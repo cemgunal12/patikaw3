@@ -16,7 +16,7 @@ public class ElmasKafa {
             }
             System.out.println(" ");
         }
-        for (int k = n; 0 <= k ; k--) {
+        for (int k = n-1; 0 <= k ; k--) {
             for (int l = (n-k); 0< l; l--) {
                 System.out.print(" ");
             }
